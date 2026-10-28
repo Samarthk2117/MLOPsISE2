@@ -1,4 +1,4 @@
-# Student Performance — MLflow Experiment Tracking and Data Drift Analysis
+# Student Performance Analysis
 
 ## Project overview
 This project demonstrates:
